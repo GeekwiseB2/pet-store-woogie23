@@ -1,0 +1,29 @@
+/*Header*/
+.logo{
+  width:90px;
+}
+.logo-text{
+  font-family: 'Lobster', cursive;
+  color:#F48057;
+
+}
+/*Applies to Jumbotron*/
+.jumbotron{
+  background-image: url('../img/hero.jpg');
+  height:450px;
+  background-position:center;
+  text-align: center;
+  background-size: 100%;
+  /*color:#fff;*/
+
+}
+.action-call{
+  color:#fff !important;
+  font-size: 30px !important;
+  font-weight:200;
+  text-transform: uppercase;
+  margin-top: 5px;
+}
+/*.image-responsive{
+  height:100px;
+}*/
